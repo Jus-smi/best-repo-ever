@@ -1,10 +1,8 @@
 # best-repo-ever
+<<<<<<< HEAD
 aklsfjkljalsdkkdjklf
 asfklhjsakldhfks
-
-
-
-
-
-kjasdfhjkhs
+=======
+aklsfjkljalsdkklklsjfkljklas
+asjfkaklsfklfdkl
 
